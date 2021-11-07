@@ -1,0 +1,9 @@
+# Игнорировать подкаталог tmp
+tmp
+# Игнорировать _old и _backup
+*_old
+*_backup
+# Игнорировать Thumbs.db
+Thumbs.db
+# Игнорировать каталог .DS_Store
+*.DS_Store
